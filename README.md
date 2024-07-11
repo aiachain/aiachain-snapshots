@@ -1,5 +1,5 @@
 
-# About BSC Snapshots
+# About AIACHAIN Snapshots
 A node snapshot is a saved copy of the current blockchain state. These snapshots capture the entire state of the blockchain at a specific point in time, including all account balances and smart contract states. Snapshots can be used to quickly sync new nodes without needing to process the entire blockchain from the genesis block.
 
 # Why Use Node Snapshots?
