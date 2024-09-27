@@ -13,4 +13,4 @@ A node snapshot is a saved copy of the current blockchain state. These snapshots
 Usage: [usage/legacyfullnode_usage.md](./usage/legacyfullnode_usage.md)
 
 Endpoints:
-> - **mainnet(every 1 months)**: [aiadata-20240710.tar.lz4](https://www.aiachain.org/zh-CN/#/en-US)(md5: ******)
+> - **mainnet(every 1 months)**: [aiadata-full-20240919.tar.lz4](https://aiadata.aiachain.org/AIA/nodes/aiadata-full-20240919.tar.lz4)(md5: 227bfef0618354d7f4cc22653a2138f5)
