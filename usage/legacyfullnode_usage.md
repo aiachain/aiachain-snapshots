@@ -11,6 +11,7 @@
 - run: `nohup ./download.sh "<paste snapshot URL here>" <your dir> &`
 
 ## Step 3: Uncompress
+- Install the lz4 tool: `sudo yum install lz4`
 - Uncompress will take more than two hours, put it in the background by `nohup tar -I lz4 -xvf geth.tar.lz4 &`
 
 
